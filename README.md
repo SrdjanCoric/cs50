@@ -1,1 +1,1 @@
-cs50
+Repository for CS50 files.
